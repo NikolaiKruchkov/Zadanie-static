@@ -1,0 +1,14 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\bin\Debug\netcoreapp3.1\Zadanie static.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\bin\Debug\netcoreapp3.1\Zadanie static.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\bin\Debug\netcoreapp3.1\Zadanie static.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\bin\Debug\netcoreapp3.1\Zadanie static.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\bin\Debug\netcoreapp3.1\Zadanie static.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\bin\Debug\netcoreapp3.1\Zadanie static.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание static\Zadanie static\Zadanie static\obj\Debug\netcoreapp3.1\Zadanie static.genruntimeconfig.cache
